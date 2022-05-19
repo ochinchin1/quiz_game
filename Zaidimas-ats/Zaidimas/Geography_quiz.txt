@@ -1,0 +1,26 @@
+Geografijos quiz
+ Auksciausia virsune zemeje?
+1. Juozapines kalva
+2. Everestas
+3. Kryziu kalnas
+4. Vezuvijus
+ Kokia ilgiause upe pasaulyje?
+1. Nilas
+2. Amazone
+3. Volga
+4. Nemuns
+ Kiek yra pirmadziu Gizos komplekse?
+1. viena
+2. trys
+3. penkios
+4. astuonios
+ Koke upe iteka i Nemuna Kaune?
+1. Dane
+2. Vilna
+3. Neris
+4. Petro kanalas
+ Koks mokslas studijuoja zemelapiu gaminima?
+1. Topografija
+2. Geomorphologija
+3. Kartografija
+4. Pedologija

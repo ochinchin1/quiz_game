@@ -1,0 +1,27 @@
+General Quiz
+ Koks Medis turi balta dreve?
+1.Klevas
+2.Azuolas
+3.Berzas
+4.Liepa
+ Kokios spalvos ugnis yra karsciausia?
+1.Raudona
+2.Melyna
+3.Geltona
+4.Zalia
+ Kuris is situ darzoviu yra uoga?
+1.Zirnis
+2.Pupa
+3.Pomidoras
+4.Ridikas
+ Kuri is siu konsoliu nera pagaminta sony?
+1.Ps2
+2.Vita
+3.PSone
+4.DS
+ Kuris is siu veikeju yra antinas?
+1.Mikis
+2.Donaldas
+3.Kliunkis
+4.Mine
+

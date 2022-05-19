@@ -1,0 +1,12 @@
+﻿  AboutMe.cpp
+  main.cpp
+  funkcijos.cpp
+  NewGame.cpp
+  player_creation.cpp
+  player_output.cpp
+  quiz.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Zaidimas.vcxproj -> C:\Users\tajus\Desktop\Zaidimas-ats\Release\Zaidimas.exe

@@ -1,0 +1,27 @@
+Lithuanian Quiz
+ Kiek savivaldybiu turi lietuva?
+1. 57
+2. 60
+3. 68
+4. 54
+ Kuriu is isvardintu etniniu mazumu Lietuvoje yra daugiausiai?
+1. Rusu
+2. Lenku
+3. Baltarusiu
+4. Ukrainieciu
+ Kiek karaliu turejo lietuva?
+1. Tris
+2. Penkis
+3. Du
+4. Viena
+ Koks resursas buvo zinomas, kad atkeliauja is baltu zemes antikos laikais i Romos imperija?
+1. Durpes
+2. Zalvaris
+3. Gintaras
+4. Vergai
+ Kokia buvo Lietuvos antroji sostine?
+1. Kernave
+2. Kaunas
+3. Vilnius
+4. Trakai
+

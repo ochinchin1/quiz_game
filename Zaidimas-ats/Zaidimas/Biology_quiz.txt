@@ -1,0 +1,27 @@
+Biology quiz
+ Kokio elemento zmogaus kune yra daugiausiai?
+1. deguonis
+2. Kalcis
+3. Natris
+4. Hidrogenas
+ Kuris is siu organu zmogaus kune per diena isvalo daugiausiai kraujo
+1. Sirdis
+2. Kepenys
+3. Inkstai
+4. Skrandis
+ Kokio organo neturi vamzdziai?
+1. Plauciu
+2. Skrandzio
+3. Sirdies
+4. Smegenu
+ Kuriame is zmogaus gyvenimo ciklo zmogus turi daugiausiai kaulu?
+1. Senatve
+2. Kudikyste
+3. Jaunyste
+4. Visi vienodai
+ Kuris is zmogaus organu negali atsiregeneruoti ?
+1. Dantys
+2. Smegenys
+3. Kepenis
+4. Akys
+

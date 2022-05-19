@@ -1,0 +1,14 @@
+﻿  AboutMe.cpp
+  NewGame.cpp
+  achievment.cpp
+  funkcijos.cpp
+  main.cpp
+  play_quiz.cpp
+  player_creation.cpp
+  player_output.cpp
+  quiz.cpp
+  shop.cpp
+  Generating Code...
+C:\Users\tajus\Desktop\Zaidimas-ats\Zaidimas\shop.cpp(21): warning C4715: 'shop': not all control paths return a value
+C:\Users\tajus\Desktop\Zaidimas-ats\Zaidimas\quiz.cpp(141): warning C4715: 'quiz_list::status_check': not all control paths return a value
+  Zaidimas.vcxproj -> C:\Users\tajus\Desktop\Zaidimas-ats\Debug\Zaidimas.exe
